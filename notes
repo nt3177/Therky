@@ -1,0 +1,8 @@
+this is a dictionary
+    use braces to create it 
+alien_0 = {'color': 'green', 'points': 5}
+\
+\
+this will call the caller and it will respond with green
+print(alien_0['color'])
+out: green
