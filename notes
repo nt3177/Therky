@@ -6,3 +6,7 @@ alien_0 = {'color': 'green', 'points': 5}
 this will call the caller and it will respond with green
 print(alien_0['color'])
 out: green
+
+it organise the code so it is easier to track
+new_points = alien_0['points']
+print("You just earned " + str(new_points) + " points!")
